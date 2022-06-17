@@ -40,6 +40,6 @@ A JS/Java developer from Erechim, Brazil.
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true&username=roanrobersson" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&include_all_commits=true&count_private&show_icons=true&theme=dark&locale=en&hide_border=true&username=roanrobersson" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&username=roanrobersson" height="140"/>
 </div>
