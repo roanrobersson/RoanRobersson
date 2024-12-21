@@ -1,22 +1,27 @@
-# Hi, I'm Roan  <img src="assets/octocat.gif" height="100" width=""/>
-A JS/Java developer from Erechim, Brazil.
+# Hi, I'm Roan <img src="assets/octocat.gif" height="100" width=""/>
 
-### About me 
-- 🎓 Analysis and systems development (IDEAU RS)
-- 💼 Working as Software Developer
-- 🌱 I’m currently learning Spring Boot and React
+A developer from Passo Fundo, Brazil.
 
-### My Skill Set  
+### About me
+
+- 🎓 Analysis and Systems Development (IDEAU RS)
+- 💼 Working as Front-end developer
+- 🌱 I’m currently learning NestJS
+
+### My Skill Set
+
 <div align="left">
+  <img src="assets/technologies/next.svg" alt="Next" height="50" />
+  &nbsp;&nbsp;
+  <img src="assets/technologies/react.svg" alt="React" height="50" />
+  &nbsp;&nbsp;
   <img src="assets/technologies/spring.svg" alt="Spring" height="50" />
   &nbsp;&nbsp;
-  <img src="assets/technologies/react.svg" alt="Reacrt" height="50" />
-  &nbsp;&nbsp;
-  <img src="assets/technologies/java.svg" alt="Java" height="50" />
+  <img src="assets/technologies/typescript.svg" alt="TypeScript" height="50" />
   &nbsp;&nbsp;
   <img src="assets/technologies/javascript.svg" alt="JavaScript" height="50" />
   &nbsp;&nbsp;
-  <img src="assets/technologies/typescript.svg" alt="TypeScript" height="50" />
+  <img src="assets/technologies/java.svg" alt="Java" height="50" />
   &nbsp;&nbsp;
   <img src="assets/technologies/html5.svg" alt="HTML5" height="50" />
   &nbsp;&nbsp;
@@ -28,6 +33,7 @@ A JS/Java developer from Erechim, Brazil.
 </div>
 
 ### Contacts
+
 <div>
   <a href="https://linkedin.com/in/roanoliveira">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" />
